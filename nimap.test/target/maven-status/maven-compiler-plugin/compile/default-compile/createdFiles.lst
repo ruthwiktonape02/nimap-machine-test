@@ -1,0 +1,9 @@
+com\ruthwik\nimap\test\controller\ProductController.class
+com\ruthwik\nimap\test\repository\CategoryRepository.class
+com\ruthwik\nimap\test\service\ProductService.class
+com\ruthwik\nimap\test\controller\CategoryController.class
+com\ruthwik\nimap\test\repository\ProductRepository.class
+com\ruthwik\nimap\test\Application.class
+com\ruthwik\nimap\test\entity\Product.class
+com\ruthwik\nimap\test\entity\Category.class
+com\ruthwik\nimap\test\service\CategoryService.class
